@@ -1,4 +1,4 @@
 # patent-data
-Patent data downloaded from Patentsview.org that I have cleaned, organized, and merged.
+Patent data downloaded from Google and Patentsview.org that I have cleaned, organized, and merged.
 
 - data/us_cites -> includes US citations data from Google Patents (1926-1975) and the USPTO (1976-2024). The citations from Google Patents were scraped by Elif Guler. Note that citations were not officially included on patent documents until February 1947 (Nicholas, 2010). The USPTO data come from ‘g_us_patent_citation’ (https://patentsview.org/download/data-download-tables). This folder includes 11 different zip files. For ease of download and ease of importing, files are divided by patent number. File "us_citations_1926_1975.csv.zip" includes all patents issued beginning 1926 through December 1975. File “us_cites_non_utility.tsv.zip” includes all non-utility patents. File “us_cites_5m.tsv.zip” includes all patents issued beginning January 1976 through patent number 5,000,000. File “us_cites_6m.tsv.zip” includes all patents between patent number 5,000,001 and patent number 6,000,000. Etc, etc.
