@@ -31,5 +31,3 @@ Patent data downloaded from the USPTO (and Google) that I have cleaned, organize
 | withdrawn   | 1=withdrawn, 0=not withdrawn              |
 | country     | Country of patent (all US)                |
 
-
-- 
