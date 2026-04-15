@@ -2,3 +2,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 data/us_cites/*.tsv.zip filter=lfs diff=lfs merge=lfs -text
 data/inventors/*.tsv.zip filter=lfs diff=lfs merge=lfs -text
+data/inventors_disambig/*.tsv.zip filter=lfs diff=lfs merge=lfs -text
