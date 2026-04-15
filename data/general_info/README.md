@@ -1,4 +1,4 @@
-The data include general info data and come from ‘g_patent’, ‘g_application’, and ‘g_figures’ (https://data.uspto.gov/bulkdata/datasets -> PatentsView Granted Patent Disambiguated Data). This folder includes all general info data for patents granted from January 1976 through December 2025. This file includes the following columns:
+The data include general patent information and come from ‘g_patent’, ‘g_application’, and ‘g_figures’ (https://data.uspto.gov/bulkdata/datasets -> PatentsView Granted Patent Disambiguated Data). This folder includes all general info data for patents granted from January 1976 through December 2025. This file includes the following variables:
 
 | Variable    | Description                               |
 | ----------- | ----------------------------------------- |
